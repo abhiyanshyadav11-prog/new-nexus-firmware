@@ -1,0 +1,2 @@
+source C:/nexus-pendant/nexus-firmware/build/gdbinit/symbols
+source C:/nexus-pendant/nexus-firmware/build/gdbinit/connect

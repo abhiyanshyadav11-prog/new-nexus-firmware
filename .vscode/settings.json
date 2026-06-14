@@ -1,0 +1,13 @@
+{
+  "idf.currentSetup": "C:\\esp\\v5.2.7\\esp-idf",
+  "idf.customExtraVars": {},
+  "clangd.path": "C:\\Espressif\\tools\\esp-clang\\esp-20.1.1_20250829\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=c:\\Users\\Administrator\\OneDrive\\Desktop\\secret projects\\full by manus\\nexus_pendant_software_v1\\nexus-firmware\\build"
+  ],
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ]
+}

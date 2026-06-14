@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/nexus-pendant/nexus-firmware/build/CMakeFiles/bootloader
+C:/nexus-pendant/nexus-firmware/build/CMakeFiles/bootloader.rule
+C:/nexus-pendant/nexus-firmware/build/CMakeFiles/bootloader-complete.rule
+C:/nexus-pendant/nexus-firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/nexus-pendant/nexus-firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/nexus-pendant/nexus-firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/nexus-pendant/nexus-firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/nexus-pendant/nexus-firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/nexus-pendant/nexus-firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/nexus-pendant/nexus-firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
